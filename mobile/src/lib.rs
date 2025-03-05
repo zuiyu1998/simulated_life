@@ -1,7 +1,7 @@
 use bevy::prelude::*;
 use bevy::window::WindowMode;
 use bevy::winit::WinitSettings;
-use bevy_game::GamePlugin; // ToDo: Replace bevy_game with your new crate name.
+use simulated_life::GamePlugin; 
 
 #[bevy_main]
 fn main() {
