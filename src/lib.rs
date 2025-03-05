@@ -49,3 +49,8 @@ impl Plugin for GamePlugin {
         }
     }
 }
+
+mod test {
+    #[test]
+    fn test_a() {}
+}

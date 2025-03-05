@@ -1,7 +1,7 @@
 use bevy::prelude::*;
 use bevy::window::WindowMode;
 use bevy::winit::WinitSettings;
-use simulated_life::GamePlugin; 
+use simulated_life::GamePlugin;
 
 #[bevy_main]
 fn main() {

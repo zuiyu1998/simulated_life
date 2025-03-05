@@ -1,0 +1,13 @@
+[files]
+extend-exclude = [
+  "**/.vscode/**/",
+  "**/*.json",
+  "typos.toml",
+  "**/*.xcodeproj/",
+  "**/*.xcworkspace/",
+  "**/*.xcassets/",
+  "**/*pbxproj",
+]
+
+[default.extend-words]
+Sur = "Sur"
